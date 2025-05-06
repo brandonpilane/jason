@@ -1,5 +1,7 @@
 # JASON - An attempt to learn how to use JSON in Python
 
+![Sreeenshot of some JSON data](./json.png)
+
 ## What is JSON?
 
 JSON is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999.
