@@ -1,7 +1,7 @@
 # JASON - An attempt to learn how to use JSON in Python
 
 <div align="center">
-    ![Sreeenshot of some JSON data](./json.png)
+![Sreeenshot of some JSON data](./json.png)
 </div>
 
 ## What is JSON?
